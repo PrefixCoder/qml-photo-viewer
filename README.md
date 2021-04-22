@@ -7,6 +7,6 @@ Select a folder, select one of 3 different layaouts (list, grid, fan), and enjoy
 ![](/screenshots/view-list.png)
 ![](/screenshots/view-grid.png)
 ![](/screenshots/view-fan.png)
-##### Flashlight
+##### Enlarging
 ![](/screenshots/selecting.png)
 ![](/screenshots/enlarged.png)
